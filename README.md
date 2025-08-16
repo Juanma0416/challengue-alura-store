@@ -29,7 +29,7 @@ Tras un análisis integral, se recomienda **vender la Tienda 1**. A pesar de ten
 ## 🚀 Instrucciones
 
 1. Clona el repositorio.
-2. Abre `informe_final.ipynb` en Google Colab.
+2. Abre `AluraStoreLatam.ipynb` en Google Colab.
 3. Ejecuta las celdas para ver el análisis completo y visualizaciones.
 
 ## 👤 Autor
